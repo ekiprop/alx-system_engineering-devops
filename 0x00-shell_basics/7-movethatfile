@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/ && mv Betty ./holberton/
+cd /tmp/ && mv betty ./holberton/
