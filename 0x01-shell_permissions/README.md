@@ -1,6 +1,6 @@
-0-iam_betty is a script that changes user ID to betty \n
-1-who_am_i is a script that prints effective userID of current user\n
-2-groups is a script that prints all the groups the current user is part of
+0-iam_betty is a script that changes user ID to betty /\n
+1-who_am_i is a script that prints effective userID of current user/\n
+2-groups is a script that prints all the groups the current user is part of /\n
 3-new_owner is a script that changes owner of file hello to user betty
 4-empty create an empty file hello
 5-execute adds execute permission to the file hello
